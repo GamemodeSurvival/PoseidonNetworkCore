@@ -1,0 +1,9 @@
+name: PoseidonNetworkCore
+main: me.gamemode.net.Core
+version: 1.0
+load: STARTUP
+depend:
+- Vault
+- PlaceholderAPI
+prefix: Core
+author: Loosened
